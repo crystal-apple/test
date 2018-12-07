@@ -28,4 +28,10 @@ if __name__=="__main__":
     matrix = rotate(matrix)
     print(matrix)
     print(list(matrix))
-    
+'''
+A=[[1,2,3],[4,5,6],[7,8,9]]
+A=A[::-1]
+print(A)
+A=zip(*A)
+print(list(A))
+'''
